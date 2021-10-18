@@ -9,8 +9,10 @@ US-Accidents can be used for numerous applications such as real-time car acciden
 
 Libraries<br>
 - pandas
+- numpy
 - matplotlib
 - seaborn
-- scikit-learn
+- Folium
 
 
+<br>Project Utility - Analysis has high efficacy to be used for traffic management and planning , Infrastructure planning (laying Roads , diversion , under- over bridge) , E-vehicle sensor capability improvisation to make drive safer , provisioning Primary Healthcare Facility to minimize loss of life .
