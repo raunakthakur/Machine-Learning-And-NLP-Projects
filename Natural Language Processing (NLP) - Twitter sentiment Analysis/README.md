@@ -1,6 +1,9 @@
 
 ## Natural Language Processing (NLP) - Twitter sentiment Analysis
 
+### Objective-
+
+Natural Language Processing Project To perform sentiment analysis on large Dataset of 1.6 million Tweets on twitter. The idea of the Project is to perform Text - Data cleaning , Data mining , Word cloud creation and Data processing (Vectorization) using Spacy Library . Finally, to create a baseline model using Scikit Learn Library to choose amongst different ML Algorithm based on accuracy and Time complexity.
 
 ### Context
 This is the sentiment140 dataset. It contains 1,600,000 tweets extracted using the twitter api . The tweets have been annotated (0 = negative, 4 = positive) and they can be used to detect sentiment .
