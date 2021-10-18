@@ -17,7 +17,7 @@ RainTomorrow is the target variable to predict. It means -- did it rain the next
 
 ### Algorithms
  - Random Forest
- - 
+ 
 ### Model Evaluation
 
 - Train Accuracy = 0.8566967383761277, 
