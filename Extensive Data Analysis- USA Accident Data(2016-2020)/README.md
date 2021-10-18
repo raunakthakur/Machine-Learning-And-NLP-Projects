@@ -1,6 +1,7 @@
 
 ## Extensive Data Analysis- USA Accident Data(2016-2020)
 
+### `NOTE:Folium Map is not displaying Due to GITHUB TRUST NOTEBOOK Issue.It would be supportive if you download the file  view Interactive Folium Map `
 ### Content 
 This dataset has been collected in real-time, using multiple Traffic APIs. Currently, it contains accident data that are collected from February 2016 to Dec 2020 for the Contiguous United States.
 
