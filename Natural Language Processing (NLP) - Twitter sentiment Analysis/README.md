@@ -18,6 +18,9 @@ flag: The query (lyx). If there is no query, then this value is NO_QUERY.<br>
 user: the user that tweeted (robotickilldozr)<br>
 text: the text of the tweet (Lyx is cool)<br>
 
+### Dataset
+[Twitter Sentiment Analysis](https://www.kaggle.com/kazanova/sentiment140)
+
 ### Libraries
 - pandas
 - matplotlib
