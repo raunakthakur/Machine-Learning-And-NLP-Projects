@@ -1,11 +1,10 @@
 
 ## Natural Language Processing (NLP) - Twitter sentiment Analysis
 
-<br>
+
 ### Context
 This is the sentiment140 dataset. It contains 1,600,000 tweets extracted using the twitter api . The tweets have been annotated (0 = negative, 4 = positive) and they can be used to detect sentiment .
 
-<br>
 ### Data Information:
 It contains the following 6 fields:<br>
 
